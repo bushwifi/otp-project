@@ -1,2 +1,4 @@
 # otp-project
-onr time password using pyhton i use google authenticator time authentication
+one time password using pyhton i use google authenticator time authentication
+do pip install time 
+pip install pyotp
